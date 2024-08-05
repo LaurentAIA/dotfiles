@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = laurent@autonomous-intelligence.fr
-	name = Laurent AIA
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = The code
